@@ -25,6 +25,11 @@ An AI-powered Image Generator built with **React (frontend)** and **Node.js + Ex
 ### Backend (Node.js Server)
 <img width="1614" height="825" alt="backend" src="https://github.com/user-attachments/assets/a4f03f1e-05a0-4cb7-8512-6e2121af5ae5" />
 
+## Video
+
+<video src="https://github.com/user-attachments/assets/6837990a-8b04-4424-8eab-e69e2ad95583" controls width="700">
+  Your browser does not support the video tag.
+</video>
 
 
 ## Frontend : 
